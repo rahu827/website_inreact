@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* font-size: 15px; */
+  text-transform: capitalize;
+  /* font-weight: 500; */
+  
+}
+
+button{
+  border: none;
+  border-radius: 35px!important;
+  text-transform: capitalize!important;
+  background-color: orange;
+  color: #fff;
+  padding: 10px 30px 10px 30px;
+  transition: .5s;
+}
+button:hover{
+background-color: #fff;
+border: 1px solid orangered;
+color: #000;
+}
+ul{
+  list-style: none;
+}
+.relative{
+  position: relative;
+}
